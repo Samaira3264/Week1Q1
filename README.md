@@ -1,2 +1,2 @@
-# Week1Q1
+# Week1 Q2
 C++ program that reads an array of integers from the user, calculates the average of the integers, and prints the result.
